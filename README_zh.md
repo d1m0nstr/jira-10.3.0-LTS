@@ -7,9 +7,9 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-+ Long Term Support Version(支持 arm64&amd64): v9.12.14
-+ Latest Version(支持 arm64&amd64): v9.17.4
-+ Beta Version(支持 arm64&amd64): v10.1.1
++ Long Term Support Version(支持 arm64&amd64): v10.3.0
++ Latest Version(支持 arm64&amd64): v10.3.0
++ Beta Version(支持 arm64&amd64): v10.3.0
 + [新的使用方式](https://github.com/haxqer/jira/tree/build-your-own) ，您可方便自行升级、修改各参数，支持https (感谢 [xsharp](https://github.com/xsharp)).
 
 新的Confluence/Jira版本仅支持数据中心许可证
