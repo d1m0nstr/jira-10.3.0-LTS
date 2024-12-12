@@ -1,4 +1,4 @@
-FROM openjdk:11-bullseye
+FROM openjdk:17-bullseye
 
 LABEL maintainer="haxqer <haxqer666@gmail.com>" version="10.3.0"
 
